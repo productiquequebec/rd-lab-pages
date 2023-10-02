@@ -92,10 +92,10 @@ R: La technologie en charge de la détection de pièce est le Vuforia Engine : M
 
 ### Dépendances
 
-- [Plateforme de développement en temps réel Unity | Moteur pour la 2D, 3D, RV et RA](https://unity.com/fr) - Plateforme de développement RA
+- [Plateforme de développement en temps réel Unity \| Moteur pour la 2D, 3D, RV et RA](https://unity.com/fr) - Plateforme de développement RA
 - [MQTT - The Standard for IoT Messaging](https://mqtt.org/) - Protocol d'échange et communication
-- [HoloLens 2—Overview, Features, and Specs | Microsoft HoloLens](https://www.microsoft.com/en-us/hololens/hardware#document-experiences) - Technologie supportant la réalité augmentée
-- [Model Targets | Vuforia Library](https://library.vuforia.com/objects/model-targets) - Technologie pour la détection de pièce
+- [HoloLens 2—Overview, Features, and Specs \| Microsoft HoloLens](https://www.microsoft.com/en-us/hololens/hardware#document-experiences) - Technologie supportant la réalité augmentée
+- [Model Targets \| Vuforia Library](https://library.vuforia.com/objects/model-targets) - Technologie pour la détection de pièce
 
 ### Recommendations
 
@@ -105,5 +105,5 @@ R: La technologie en charge de la détection de pièce est le Vuforia Engine : M
 ### Suggestions
 
 - [MQTTX: Your All-in-one MQTT Client Toolbox](https://mqttx.app/) - Client MQTT avec UI pour rapidement et facilement tester les communications 
-- [MongoDB Compass | MongoDB](https://www.mongodb.com/fr-fr/products/compass) - Client MongoDB avec UI pour rapidement et facilement tester des *queries* et l'insertion de donnée 
-- [Plotly panel plugin for Grafana | Grafana Labs](https://grafana.com/grafana/plugins/ae3e-plotly-panel/) - Plugin supportant les figures Plotly sur Grafana
+- [MongoDB Compass \| MongoDB](https://www.mongodb.com/fr-fr/products/compass) - Client MongoDB avec UI pour rapidement et facilement tester des *queries* et l'insertion de donnée 
+- [Plotly panel plugin for Grafana \| Grafana Labs](https://grafana.com/grafana/plugins/ae3e-plotly-panel/) - Plugin supportant les figures Plotly sur Grafana
