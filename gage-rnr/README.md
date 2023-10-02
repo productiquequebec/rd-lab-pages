@@ -20,7 +20,7 @@ Ce projet démontre un prototype fonctionnel d'une série de technologie mise en
 
 ## Fonctionnalités
 
-L'application permet d'afficher exactement l'endroit où les mesures doivent être prises grâce à la réalité augmentée. Cela permet à l'opérateur d'être certain d'effectuer le Gage R&R correctement, en plus de faire suivi des mesures prises de façon automatisée. L'opérateur possède également un menu interactif, permettant de naturellement annuler la dernière mesure, changer de nom d'utilisateur ou même de reprendre la session au complet.
+L'application permet d'afficher exactement l'endroit où les mesures doivent être prises grâce à la réalité augmentée. Cela permet à l'opérateur d'être certain d'effectuer le Gage R&R correctement, en plus de faire un suivi des mesures prises de façon automatisée. L'opérateur possède également un menu interactif, permettant de naturellement annuler la dernière mesure, changer de nom d'utilisateur ou même de reprendre la session au complet.
 
 Les données sont ensuite transférer par MQTT sur un *topic* défini lors de la compilation du projet. Les données acquises par des instruments de mesures externes sont également acheminées par MQTT sur un *topic* différent, créant ainsi une interface standard pour les entrées et sorties. 
 
@@ -35,7 +35,7 @@ Finalement, du code est disponible pour créer des tableaux intéressants basé 
 
 ## Utilisation
 
-Pour utiliser ce projet, la scène doit être monté et lancé sur un appareil supporté. Présentement, le HoloLens 2 a été testé et jugé fonctionnel pour le projet. L'application peut alors être lancée depuis l'appareil.
+Pour utiliser ce projet, la scène doit être monté et lancé sur un appareil supporté. Présentement, le HoloLens 2 a été testé et jugé fonctionnel pour le projet. L'application peut alors être lancée depuis l'appareil. Voici quelques images démontrant les aspects intéressants de la réalité augmenté. 
 
 - La position et l'état des mesures à prendre sont rendus clair grâce aux indicateurs visuels.
 
