@@ -76,7 +76,7 @@ Le projet est en soit un prototype démontrant les applications possibles ainsi 
 
 **Q: La pièce n'est pas détectée par l'application, que faire ?**
 
-R: La technologie en charge de la détection de pièce est le Vuforia Engine : Model Target. Plusieurs facteurs affectent la détection de la pièce, notamment l'éclairage, l'angle et la distance. Essayer de positionner la pièce en perspective isométrique dans à une distance allant de 10 à 15 cm du casque HoloLens, le tout centré dans le champs visuel.  
+R: La technologie en charge de la détection de pièce est le Vuforia Engine : Model Target. Plusieurs facteurs affectent la détection de la pièce, notamment l'éclairage, l'angle et la distance. Essayer de positionner la pièce de face comme dans la section [utilisation](#utilisation) à une distance allant de 10 à 15 cm du casque HoloLens, le tout centré dans le champs visuel.  
 
 ## Crédits
 
